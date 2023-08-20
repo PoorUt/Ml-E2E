@@ -21,4 +21,4 @@ The Next step will be to create a simple hello world flask application and deplo
 First of all we will configure our continous integration and continous deployment (CI-CD) pipeline in a fully automated way using git hub excels.
 So, if we make any changes to our code, the automated CI-CD pipeline will continously trigger the deployment to heroku.
 
-
+In this project we will create a simple hello world application and try to deploy in Heroku using docker

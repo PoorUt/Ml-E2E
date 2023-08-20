@@ -1,5 +1,10 @@
 # Ml-E2E
-This repository contains Machine learning End to End projects
+This repository contains Machine learning End to End projects. 
+We will have the following in this project
+    1- Data import and data cleaning
+    2- Feature selection and Feature Engineering
+    3- Modeli Building
+    4- Model Deployment
 
 
 Software and account Requirement.

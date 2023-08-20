@@ -15,3 +15,8 @@ If you dont have these you can get them from the links below.
 2. [Heroku Account](https://dashboard.heroku.com/login)
 3. [VS Code IDE](https://code.visualstudio.com/download)
 4. [GIT cli](https://git-scm.com/download)
+
+
+The Next step will be to create a simple hello world flask application and deploy it to heroku using docker.
+First of all we will configure our continous integration and continous deployment (CI-CD) pipeline in a fully automated way using git hub excels.
+So, if we make any changes to our code, the automated CI-CD pipeline will continously trigger the deployment to heroku.

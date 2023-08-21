@@ -22,4 +22,13 @@ First of all we will configure our continous integration and continous deploymen
 So, if we make any changes to our code, the automated CI-CD pipeline will continously trigger the deployment to heroku.
 
 
+We will use Docker for this project
+
+Docker -    Provides portability of our code
+            We need to make our code portable and for this we need a container
+            portability -   To run our code in any operating system. 
+                            It isolates our code from any underlying operating system
+            Container   -   
+            Image       -   We can save our docker image on docker hub
+            
 

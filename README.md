@@ -44,7 +44,7 @@ Is it similar to Conda Environment?
 
 Once we have the docker image ready, we can download it and run it in AWS, GCP, Azure, or your local system.
 
-In short, Docker provides run time environment to run your application
+In short, Docker provides isolated run time environment to run your application independent of operating system.
 
 
 ML-E2E Requirements

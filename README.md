@@ -46,7 +46,31 @@ Once we have the docker image ready, we can download it and run it in AWS, GCP, 
 
 In short, Docker provides isolated run time environment to run your application independent of operating system.
 
+A container is a virtual machine. Or its the virualization of hardware  that contains the OS and all the dependencies just to run the app. It provides an isolated minimum required environment for your app.
 
+
+Lets Understand CI-CD Pipeline
+                CI                          CD
+Local System ->               github   ->            Heroku
+
+CI - Continous Integration
+CD - Continous Deployment
+ 
+
+The following is the agenda for our ML-E2E project
+1- Create a flask App ( Hello World)
+2- Write a docker file for flask application
+3- Create github action for CI-CD
+4- Heroku app for flask deployment
+5- Create a structure for ML app
+6- Build machine learning pipeline
+
+
+First we need to create a conda environment
+ 
+```
+conda create -p venv python==3.7 -y
+```
 ML-E2E Requirements
 
 

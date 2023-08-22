@@ -44,5 +44,10 @@ Is it similar to Conda Environment?
 
 Once we have the docker image ready, we can download it and run it in AWS, GCP, Azure, or your local system.
 
+In short, Docker provides run time environment to run your application
+
+
+ML-E2E Requirements
+
 
 

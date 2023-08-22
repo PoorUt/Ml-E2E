@@ -32,7 +32,7 @@ Docker -    Provides portability of our code
             Image       -   We can save our docker image on docker hub
             Simple explanation of Docker:
 
-            [ Imagine you have a special box called a "container." Inside this box, you can put all the things your computer program needs to work, like the program itself, the tools it uses, and even a little world where it can run safely. This box is like a tiny computer world just for your program, and it's separate from the big computer it's on.
+            [ Imagine you have a special box called a "container." Inside this box, you can put all the things your computer program needs to work, like the program itself, the tools it uses, and even a little world where it can run safely. This box is like a tiny computer world just for your program, and it's separate from the big computer it's on.]
 
 So, when you want to share your program with others or make it work on a different computer, you just give them this special box. They can open it and everything your program needs is right there. This way, no matter where your program goes, it will work the same because it's in its own little container world. This makes it much easier to share and use programs without causing problems on the big computer.
 

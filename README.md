@@ -4,7 +4,7 @@ First We created a clone of our git repository so that we can push or pull chang
 
 
 To create a git clone follow the following steps
-    from your terminal type git clone and then the github page link
+    from your terminal(Git bash) type git clone "the github page link" - Enter
     
 
 This repository contains Machine learning End to End projects. 
@@ -78,7 +78,38 @@ First we need to create a conda environment
  
 ```
 conda create -p venv python==3.7 -y
+using "p" in the above command stands for prefix with the name "venv"
+If we use just "p" then the virtual environment will create in the folder where conda is installed. And after some days your c drive will be full.
+using "-p" allows us to create the virtual environment in the current working directory. So when we delete that folder the virtual environment will be deleted.
+
+
+Then activate the conda environment. Use from the cmd terminal. conda activate venv/ (use the slash at the end if conda activate venv doesnt work )
+
+Run this code in the terminal
 ```
+use conda init command for the following
+
+The conda init command is used in the Command Prompt (cmd) or other shell environments to set up the Conda package manager for managing Python and other software packages. Conda is a popular package and environment management system commonly used in data science and scientific computing.
+
+When you run conda init in cmd or a similar shell, it performs the following tasks:
+
+Shell Initialization: It configures your shell (Command Prompt, PowerShell, Bash, etc.) to work with Conda by modifying shell configuration files. This typically involves modifying shell startup scripts like .bashrc, .bash_profile, .zshrc, or .profile to include Conda-specific commands and settings.
+
+Activate Conda Base Environment: It ensures that the Conda base environment (the default environment) is activated when you open a new shell session. This means that Conda's Python and packages will be available by default, allowing you to use Conda-managed packages and environments without needing to explicitly activate them every time you start a new shell session.
+
+Initialize Conda Auto-Activation: In some shells, conda init can also set up auto-activation of Conda environments. This means that when you navigate to a directory containing a Conda environment, it will automatically activate that environment, making it easier to work with multiple environments for different projects.
+
+Here's an example of how you might use conda init in the Command Prompt:
+
+
+```
+
+pip install -r requirements.txt
+
+
+
+
+
 ML-E2E Requirements
 
 

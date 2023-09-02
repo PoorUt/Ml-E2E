@@ -1,6 +1,6 @@
 # Ml-E2E
 
-First We created a clone of our git repository so that we can push or pull changes from out local systems and we can also collaborate with other team members
+First We created a clone of our git repository so that we can push or pull changes from out local systems and we can also collaborate with other team members.
 To create a git clone follow the following steps
     from your terminal type git clone and then the github page link
     

@@ -1,6 +1,6 @@
 # Ml-E2E
 
-First We created a clone of our git repository so that we can push or pull changes from out local systems and we can also collaborate with other team members.
+First We created a clone of our git repository so that we can push or pull changes from our local systems and we can also collaborate with other team members.
 
 
 To create a git clone follow the following steps
@@ -11,7 +11,7 @@ This repository contains Machine learning End to End projects.
 We will have the following in this project
     1- Data import and data cleaning
     2- Feature selection and Feature Engineering
-    3- Modeli Building
+    3- Model Building
     4- Model Deployment
 
 These are the Software and account Requirement.

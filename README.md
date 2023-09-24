@@ -103,7 +103,12 @@ Here's an example of how you might use conda init in the Command Prompt:
 
 
 ```
+```
+Regarding Git repository
 
+Once you have the git repository and git clone set up, As long as you're working within the cloned directory, your code editor should recognize the Git connection automatically. You won't need to repeatedly set up the connection each time you open the folder, assuming you haven't deleted the .git directory or made changes that would disrupt the Git repository's integrity.. Once you have cloned the repository, you can open the cloned directory in your code editor. Most code editors, such as Visual Studio Code, Atom, or Sublime Text, will automatically recognize that you're working within a Git repository and provide Git-related functionality.
+
+```
 pip install -r requirements.txt
 
 

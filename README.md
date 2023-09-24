@@ -101,7 +101,7 @@ Initialize Conda Auto-Activation: In some shells, conda init can also set up aut
 
 Here's an example of how you might use conda init in the Command Prompt:
 
-This is me
+
 ```
 
 pip install -r requirements.txt

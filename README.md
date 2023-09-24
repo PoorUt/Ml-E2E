@@ -173,8 +173,6 @@ In this example, I've added version numbers (e.g., 1.3.3, 1.21.2, etc.) to each 
 
 **Q- __So while writing a python code if i use pip freeze > requirements.txt from cmd, then it will create a requirments.txt file? do i need to be in the same directory first in cmd?  can i do this for a python code that i write in jupyter notebook?**
 
-Include ** to make bold
-
 
 es, you can create a requirements.txt file for a Python project using the pip freeze command from the Command Prompt (CMD). Here are the steps:
 

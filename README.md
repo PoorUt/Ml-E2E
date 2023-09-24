@@ -171,8 +171,7 @@ Flask==2.0.1
 In this example, I've added version numbers (e.g., 1.3.3, 1.21.2, etc.) to each package. You should replace these with the specific versions that you have tested and confirmed to work with your project. When you specify versions, you make your project more reproducible and reduce the risk of issues related to unexpected updates in the packages.
 
 
-Q- __So while writing a python code if i use pip freeze > requirements.txt from cmd, then it will create a requirments.txt file? do i need to be in the same directory first in cmd?  can i do this for a python code that i write in jupyter notebook?__
-
+**Q- __So while writing a python code if i use pip freeze > requirements.txt from cmd, then it will create a requirments.txt file? do i need to be in the same directory first in cmd?  can i do this for a python code that i write in jupyter notebook?**
 
 es, you can create a requirements.txt file for a Python project using the pip freeze command from the Command Prompt (CMD). Here are the steps:
 
